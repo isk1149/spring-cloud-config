@@ -1,6 +1,6 @@
 token:
   expiration_time: 360000
-  secret: ecommerce_dev_yml_abcd1234!@
+  secret: application_yml_asdf123!@#
 
 gateway:
   ip: 127.0.0.1
