@@ -1,6 +1,6 @@
 token:
   expiration_time: 360000
-  secret: application_yml_asdf123!@#
-
+  secret: application_yml_111
+    
 gateway:
   ip: 127.0.0.1
