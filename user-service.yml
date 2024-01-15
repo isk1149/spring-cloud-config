@@ -9,6 +9,8 @@ token:
   expiration_time: 360000
   secret: token_user_service_asdf123$#%
 
+encryption-test: '{cipher}107d55eae379a8a6c6741598bd40cab4cfbe4e72979aaf625e8df8cd8329cf4069e0794ebfc85fd6028062b257872f30'
+
 gateway:
   ip: 127.0.0.1
 
