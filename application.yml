@@ -1,6 +1,6 @@
 token:
   expiration_time: 360000
-  secret: application_yml_111
+  secret: '{cipher}AQA22gE5xqYcguzcxvazhoAQzPgTirwKIMZAwcOkM88OtEhZr8LYMJag3Zl8PPmYuXNsYR+rIe99zDxwsG5R3mw1ATM/qRQV2k57SMovU44UkhOsaIeryU/65yqEawz1WGehb5vmGMgxfEny3UTQEW2ni+qO1Abo0YWqDKNShiKZhsUzxP3nlLVG2QGZe6lywM0r3vDLL1f1/a49/KX1nD4/lvhW4UZn+UMkgTBziwnJvUtnNwr4/lUk2bfqojO869N2q0xF1NrLqi1KMxkGZhyC4GhXXMQW0qjF4JoLaN+VpSGl+tQyy1V3zuL5AfY4Ki8FQ0M/K64MaEVJm9lkYSIIo4VnmNendWPkZsbgtITmKlCJlqOSz0XkvHffz/9B18w='
     
 gateway:
   ip: 127.0.0.1
