@@ -9,7 +9,7 @@ token:
   expiration_time: 360000
   secret: token_user_service_asdf123$#%
 
-encryption-test: '{cipher}107d55eae379a8a6c6741598bd40cab4cfbe4e72979aaf625e8df8cd8329cf4069e0794ebfc85fd6028062b257872f30'
+encryption-test: '{cipher}AQACMY5uvdKAY6nzocUd+7QRl15J9MdE08rCNUwehQMlPylF0uXlJWNjS3MwZswhXy1HArgesd7ZOQ5r4Mic0FLOgJphqveIYKWcZRSoFBbP8sw8e9GeszWD/nBHph3xXae1Q+QmeTDgueKqukTAplf+Sp38wWWLE/bdaEvLGj8e+CPRvy1ShbOjV9DGKHEAyfTcuVjFjdRdfIboi92FRmidxD34vafHZKNnqocwpgOny2f7Bq80vlZzjHT9/iFbKexox6kciI1O22rpv5dmnfABtCZ8QS2o5CgiNDfOnOWW36ZgRcXEsJIb5PxSG7dmz6JKUqXDmMMWVTUuwsjWbzU0rQp2WR4MlYM6wwcIrjH2ZhCU8fxz8qGQf26BpTC9R1k='
 
 gateway:
   ip: 127.0.0.1
