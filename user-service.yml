@@ -14,3 +14,5 @@ encryption-test: '{cipher}AQACMY5uvdKAY6nzocUd+7QRl15J9MdE08rCNUwehQMlPylF0uXlJW
 gateway:
   ip: 127.0.0.1
 
+order_service:
+  url: http://localhost:8000/order-service/%s/orders
