@@ -17,7 +17,7 @@ gateway:
 order_service:
   url: http://order-service/order-service/%s/orders
   exception:
-    orders_is_empty: Sorry, User's order is empty.
+    orders_is_empty: 404, User's order is empty.
 
 
 
