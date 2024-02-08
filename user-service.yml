@@ -15,7 +15,7 @@ gateway:
   ip: 127.0.0.1
 
 order_service:
-  url: http://order-service/order-service/%s/orders
+  #  url: http://order-service/order-service/%s/orders
   exception:
     orders_is_empty: 404, User's order is empty.
 
