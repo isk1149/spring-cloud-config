@@ -6,7 +6,7 @@ spring:
     driver-class-name: org.h2.Driver
 
 token:
-  expiration_time: 3600000
+  expiration_time: 43200000 #12hours
   secret: token_user_service_asdf123$#%
 
 encryption-test: '{cipher}AQACMY5uvdKAY6nzocUd+7QRl15J9MdE08rCNUwehQMlPylF0uXlJWNjS3MwZswhXy1HArgesd7ZOQ5r4Mic0FLOgJphqveIYKWcZRSoFBbP8sw8e9GeszWD/nBHph3xXae1Q+QmeTDgueKqukTAplf+Sp38wWWLE/bdaEvLGj8e+CPRvy1ShbOjV9DGKHEAyfTcuVjFjdRdfIboi92FRmidxD34vafHZKNnqocwpgOny2f7Bq80vlZzjHT9/iFbKexox6kciI1O22rpv5dmnfABtCZ8QS2o5CgiNDfOnOWW36ZgRcXEsJIb5PxSG7dmz6JKUqXDmMMWVTUuwsjWbzU0rQp2WR4MlYM6wwcIrjH2ZhCU8fxz8qGQf26BpTC9R1k='
