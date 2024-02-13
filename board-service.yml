@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:h2:tcp://localhost/~/boarddb
+    username: '{cipher}AQBpsyI95elTe9kb6QeMKwuhPuu2vu0DjlJUub76+G/7WgqnNywqO1YB1KStspmejfr+93I5PDKendPyE8EcIUjRTS+Up8WUrfmiuj/VshTUdUwJS5nH3VQAqqoGBpiPWY5fKK3z0VK3oUG1Kx3et2DLj7K8nlZ7dQQ3OCZIqNmsUElpUpwf4Hudg7zLsX0LJgehR8JLuoB5INCKN/8ZO8n11MU4yETLpvxwGBzc/VEIovLuzXScGvBMzvrxnU0o2CzT2yslQUW055RuwtfmzwXpywUlQuv/Nk3caQqccZHEHH88/Xegv8I5kAHS64m+ttI9QOWhvxHXHo+kTBNGzZepTlnX15rDAILLr804+17xh9yCDRlYm9EMer+nEEwDIlw='
+    password: 
+    driver-class-name: org.h2.Driver
